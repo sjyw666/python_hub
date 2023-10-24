@@ -1,0 +1,13 @@
+# coding:utf-8
+# author:杨淑娟
+user_name=input('用户名:')
+login_pwd=input('登录密码:')
+com_pwd=input('确认密码:')
+card_type=input('证件类型:')
+name=input('姓名:')
+card_id=input('证件号码:')
+passenger_type=input('旅客类型:')
+email=input('邮箱:')
+phone=input('手机号码:')
+
+print(user_name,'注册成功')
